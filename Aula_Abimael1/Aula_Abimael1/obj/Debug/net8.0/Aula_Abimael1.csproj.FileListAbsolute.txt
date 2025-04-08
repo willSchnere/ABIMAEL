@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\bin\Debug\net8.0\Aula_Abimael1.exe
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\bin\Debug\net8.0\Aula_Abimael1.deps.json
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\bin\Debug\net8.0\Aula_Abimael1.runtimeconfig.json
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\bin\Debug\net8.0\Aula_Abimael1.dll
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\bin\Debug\net8.0\Aula_Abimael1.pdb
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\obj\Debug\net8.0\Aula_Abimael1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\obj\Debug\net8.0\Aula_Abimael1.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\obj\Debug\net8.0\Aula_Abimael1.AssemblyInfo.cs
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\obj\Debug\net8.0\Aula_Abimael1.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\obj\Debug\net8.0\Aula_Abimael1.dll
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\obj\Debug\net8.0\refint\Aula_Abimael1.dll
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\obj\Debug\net8.0\Aula_Abimael1.pdb
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\obj\Debug\net8.0\Aula_Abimael1.genruntimeconfig.cache
+C:\Users\dev\Desktop\Aula_Abimael1\Aula_Abimael1\obj\Debug\net8.0\ref\Aula_Abimael1.dll
