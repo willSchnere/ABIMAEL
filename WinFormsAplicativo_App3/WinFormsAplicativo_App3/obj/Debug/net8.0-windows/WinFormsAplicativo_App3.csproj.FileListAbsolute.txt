@@ -1,0 +1,16 @@
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\bin\Debug\net8.0-windows\WinFormsAplicativo_App3.exe
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\bin\Debug\net8.0-windows\WinFormsAplicativo_App3.deps.json
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\bin\Debug\net8.0-windows\WinFormsAplicativo_App3.runtimeconfig.json
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\bin\Debug\net8.0-windows\WinFormsAplicativo_App3.dll
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\bin\Debug\net8.0-windows\WinFormsAplicativo_App3.pdb
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\WinFormsAplicativo_App3.Form1.resources
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\WinFormsAplicativo_App3.csproj.GenerateResource.cache
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\WinFormsAplicativo_App3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\WinFormsAplicativo_App3.AssemblyInfoInputs.cache
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\WinFormsAplicativo_App3.AssemblyInfo.cs
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\WinFormsAplicativo_App3.csproj.CoreCompileInputs.cache
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\WinFormsAplicativo_App3.dll
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\refint\WinFormsAplicativo_App3.dll
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\WinFormsAplicativo_App3.pdb
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\WinFormsAplicativo_App3.genruntimeconfig.cache
+C:\Users\2025106332\Desktop\WinFormsAplicativo_App3\WinFormsAplicativo_App3\obj\Debug\net8.0-windows\ref\WinFormsAplicativo_App3.dll
