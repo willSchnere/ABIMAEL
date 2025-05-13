@@ -1,0 +1,16 @@
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\bin\Debug\net8.0-windows\WinForm_Primeiro_app.exe
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\bin\Debug\net8.0-windows\WinForm_Primeiro_app.deps.json
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\bin\Debug\net8.0-windows\WinForm_Primeiro_app.runtimeconfig.json
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\bin\Debug\net8.0-windows\WinForm_Primeiro_app.dll
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\bin\Debug\net8.0-windows\WinForm_Primeiro_app.pdb
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\WinForm_Primeiro_app.Form1.resources
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\WinForm_Primeiro_app.csproj.GenerateResource.cache
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\WinForm_Primeiro_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\WinForm_Primeiro_app.AssemblyInfoInputs.cache
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\WinForm_Primeiro_app.AssemblyInfo.cs
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\WinForm_Primeiro_app.csproj.CoreCompileInputs.cache
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\WinForm_Primeiro_app.dll
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\refint\WinForm_Primeiro_app.dll
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\WinForm_Primeiro_app.pdb
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\WinForm_Primeiro_app.genruntimeconfig.cache
+C:\Users\2025106332\Desktop\WinForm_Primeiro_app\WinForm_Primeiro_app\obj\Debug\net8.0-windows\ref\WinForm_Primeiro_app.dll
